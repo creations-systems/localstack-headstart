@@ -8,3 +8,12 @@ Based on "Learning-Localstack" at https://github.com/hanxuwu/Learning-Localstack
 Based on "System testing: Localstack + Terraform" at https://medium.com/@geekrodion/system-testing-localstack-terraforms-37b31ba99310
 
 
+## Initial Setup
+
+### 100 First, we'll need to install a few things.
+
+#### 100.001 Install [Docker](https://docs.docker.com/install/) if you haven't already.
+
+
+
+### 200 
