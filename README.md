@@ -1,7 +1,7 @@
 # localstack-headstart
 Localstack - Headstart
 
-Based on "How to fake AWS locally with LocalStack" at https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me
+Based on "How to fake AWS locally with LocalStack" at https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me with demo repo at https://github.com/good-idea/localstack-demo
 
 Based on "Learning-Localstack" at https://github.com/hanxuwu/Learning-Localstack
 
