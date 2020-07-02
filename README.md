@@ -12,6 +12,8 @@ Based on "System testing: Localstack + Terraform" at https://medium.com/@geekrod
 
 ### 100 First, we'll need to install a few things.
 
+We will be installing on Linux Ubuntu server at paperspace, called "Infrastructure"
+
 #### 100.001 Install [Docker](https://docs.docker.com/install/) if you haven't already.
 
 
