@@ -146,4 +146,30 @@ UPGRADE DOCKER ENGINE
 To upgrade Docker Engine, first run sudo apt-get update, then follow the [installation instructions](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository), choosing the new version you want to install.
 
 
-more ...
+Purely for information purpose, but don't uninstall!!
+
+# Uninstall Docker Engine (for info only)
+
+1. Uninstall the Docker Engine, CLI, and Containerd packages:
+
+````
+$ sudo apt-get purge docker-ce docker-ce-cli containerd.io
+````
+
+2. Images, containers, volumes, or customized configuration files on your host are not automatically removed. To delete all images, containers, and volumes:
+
+````
+$ sudo rm -rf /var/lib/docker
+````
+
+You must delete any edited configuration files manually.
+
+# Next steps
+
+- Continue to [Post-installation steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/).
+
+- Review the topics in [Develop with Docker](https://docs.docker.com/develop/) to learn how to build new applications using Docker.
+
+
+
+
