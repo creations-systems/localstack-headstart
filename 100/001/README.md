@@ -40,6 +40,23 @@ $ sudo apt-get install \
     software-properties-common
 ````
 
+2. Add Docker’s official GPG key:
+
+````
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+````
+
+Verify that you now have the key with the fingerprint
+
+````
+9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
+````
+
+
+
+
+
+
 
 
 more ...
