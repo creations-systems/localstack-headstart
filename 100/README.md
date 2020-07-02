@@ -3,4 +3,4 @@
 
 100.001 Install Docker
 
-See also [README.md](./001/Readme.md)
+See also [README.md](./001/README.md)
